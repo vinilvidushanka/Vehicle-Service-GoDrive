@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cv-filter-app-3e1eb",
+  "private_key_id": "e552a2a11eb54288c435cb30c9418a5f3446c20f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzTwkbgyiin/u3\nEeYkYGwoeIRrwAixfyIdRN4NcutuABgSvTtkiEdNQyNMM7ND+PZagwCNcJflmVOu\n+7MGYvR21LjhqLMVJW11Z7LiCAVzBeZ8k8X2E1cDFlCX5dThJjA0ykzEptvLU7D6\nXrE4KYlC+igwtHQEuJgxy4hxbQfc68ggde+Gxizh8gCXuZYZtIBEAH80QMcQCRCk\nBVYPiSOmorspFTLo1nN6M7z6I5OtshTOHu1WvBScrvbHAoiaLfynE+snjGgBcePb\n8v4Wcg19IQNX1ke9LiCJ7ZtZHWQGxPhlmVj28uiIPwBVTX2OdnFVEvQIaB1/UUp4\ncve2U0CRAgMBAAECggEAEdXpYSEUXkvFUx4OyzzDmWl2e4zOGJC9rRVj9IjDMg2E\nl32W7i6vj/f/B3YHjXny0ElCWW9TDqGoHSpYcgjPChBqBPk9uftfdkuOs7TKTPkP\n5oGg8fOVxr72HIveF1iv+BpM1U1HJOQR4S+g12YrSvwc2g5jEXKmoeJd07F9lBv9\npsOgpnNaG/EWPUBWWzcgvBu1UkQEAw2u2+e3C6jTNqsuhgFQsqR6jr6848RBUE62\nBtMRxrXQiPjUrlXP24WodXjKsR5+B7VpIyVanAkv9LPHbQYBcqRlEGtK9XuD/AcX\ngKiA9NZQqdC4gOnZb+LvUGA/3ceTPFvFsWSWk7fBGQKBgQDow3BMKOQHs8mKNVjD\n5OHaaWZFpp72RMRr5uIW+3vbWFluUtlXHP8CExTSdez8MDipcfwSf51/LWNfmNZa\namXTHXxng4oEL5j3vLZr3l9hsqDve/FyRQo1hYGnGpLHR4s+/fU438G9vRdcYZSK\nBe5Ei53v1edNuDyoW2fJTnVZuQKBgQDFNX67ew+zoLFcxYEDjDmcxKrKOiJve9Sx\nAeXGcGqdLLgQqX3H79N9Caoxl1PSFZP+EEa+g+bLjtg6KpgltfG9oGr4VO+KAeMt\nkvPfDSS4m3018FjDAZ45GrQb1n679yOOB85RLN0ZQQ87JzoI315+/10As3hVX7XW\nQ2FfHmIpmQKBgQDQjjTzeHwAzr2ZQX1cYJthWKkTZVzvKeSZDdGsZ/6tJXdUG5Wz\nsT5oPHKetJz3xbkvUftbE88poaB1insdnlHIHJZYJYsnfwJfj04gTqpF3ojGq9ZF\n3chs9keaU3wKZHdGpMPxBsQQXvosgx5VoUTBVBvaRl2uzJJFA0l2HP+WuQKBgB+/\nCtW3a8Go3qRmjuw5SJT5+9xuG1kDACw2d/zH4AHJTyAviLYE33DDe4hcKfwpyRcf\nG6RTq3WdWyWR8cgwT+gMyOuNELqQrzeI7oU7omutbCygsklCG2xp5hCNKP2tPSYC\nD651oGoOVRtapzcCbj3XcetI+NgVfjotwqEDTR4RAoGBALTEy/yBVcpzFIYysa0Y\nlU1PUTMvqPUQvn9G0jPFVY07Sp1uDNQXc3c4r48awam1Ckskw0C556BUIQx92Kb1\nYgYGBbC7/7JPEsIwMer/Xj3aRyZsH51cG3lE8AUxsy1n5zDcZl22be27PwY1Xsvz\n3xq0O/XH60TzjdyqeoS3UVUa\n-----END PRIVATE KEY-----\n",
+  "client_email": "godrive-storage-manager@cv-filter-app-3e1eb.iam.gserviceaccount.com",
+  "client_id": "105758523837972622230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/godrive-storage-manager%40cv-filter-app-3e1eb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
